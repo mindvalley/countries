@@ -782,7 +782,7 @@ BB:
     it: Barbados
     de: Barbados
     fr: Barbade
-    es: 
+    es:
     ja: バルバドス
     nl: Barbados
     ru: Барбадос
@@ -819,7 +819,7 @@ BD:
     it: Bangladesh
     de: Bangladesch
     fr: Bangladesh
-    es: 
+    es:
     ja: バングラデシュ
     nl: Bangladesh
     ru: Бангладеш
@@ -953,7 +953,7 @@ BG:
     it: Bulgaria
     de: Bulgarien
     fr: Bulgarie
-    es: 
+    es:
     ja: ブルガリア
     nl: Bulgarije
     ru: Болгария
@@ -2093,43 +2093,6 @@ CR:
   - es
   nationality: Costa Rican
   postal_code: true
-CU:
-  continent: North America
-  alpha2: CU
-  alpha3: CUB
-  country_code: '53'
-  currency: CUP
-  international_prefix: '119'
-  ioc: CUB
-  latitude: 21 30 N
-  longitude: 80 00 W
-  name: Cuba
-  names:
-  - Cuba
-  - Kuba
-  - キューバ
-  translations:
-    en: Cuba
-    it: Cuba
-    de: Kuba
-    fr: Cuba
-    es: Cuba
-    ja: キューバ
-    nl: Cuba
-    ru: Куба
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 8
-  national_prefix: '0'
-  number: '192'
-  region: Americas
-  subregion: Caribbean
-  un_locode: CU
-  languages:
-  - es
-  nationality: Cuban
-  postal_code: true
 CV:
   continent: Africa
   alpha2: CV
@@ -2933,7 +2896,7 @@ FI:
   number: '246'
   region: Europe
   subregion: Northern Europe
-  un_locode: 
+  un_locode:
   languages:
   - fi
   - sv
@@ -2989,7 +2952,7 @@ FK:
   country_code: '500'
   currency: FKP
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 51 45 S
   longitude: 59 00 W
   name: Falkland Islands (Malvinas)
@@ -3327,7 +3290,7 @@ GF:
   country_code: '594'
   currency: EUR
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 4 00 N
   longitude: 53 00 W
   name: French Guiana
@@ -4402,7 +4365,7 @@ IO:
   country_code: '246'
   currency: USD
   international_prefix: ''
-  ioc: 
+  ioc:
   latitude: 6 00 S
   longitude: 71 30 E
   name: British Indian Ocean Territory
@@ -4470,42 +4433,6 @@ IQ:
   languages:
   - ar
   nationality: Iraqi
-  postal_code: true
-IR:
-  continent: Asia
-  alpha2: IR
-  alpha3: IRN
-  country_code: '98'
-  currency: IRR
-  international_prefix: '00'
-  ioc: IRI
-  latitude: 32 00 N
-  longitude: 53 00 E
-  name: Iran, Islamic Republic Of
-  names:
-  - Iran
-  - Irán
-  - イラン・イスラム共和国
-  translations:
-    en: Iran
-    de: Iran
-    fr: Iran
-    es: Iran
-    ja: イラン・イスラム共和国
-    nl: Iran
-    ru: Иран
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 10
-  national_prefix: '0'
-  number: '364'
-  region: Asia
-  subregion: Southern Asia
-  un_locode: IR
-  languages:
-  - fa
-  nationality: Iranian
   postal_code: true
 IS:
   continent: Europe
@@ -4612,7 +4539,7 @@ JE:
   country_code: '44'
   currency: JEP
   international_prefix: ''
-  ioc: 
+  ioc:
   latitude: 49 15 N
   longitude: 2 10 W
   name: Jersey
@@ -4634,7 +4561,7 @@ JE:
   number: '832'
   region: Europe
   subregion: Northern Europe
-  un_locode: 
+  un_locode:
   languages:
   - en
   - fr
@@ -5008,48 +4935,6 @@ KN:
   languages:
   - en
   nationality: Kittian and Nevisian
-  postal_code: false
-KP:
-  continent: Asia
-  alpha2: KP
-  alpha3: PRK
-  country_code: '850'
-  currency: KPW
-  international_prefix: '00'
-  ioc: PRK
-  latitude: 40 00 N
-  longitude: 127 00 E
-  name: Korea, Democratic People's Republic Of
-  names:
-  - Korea (North)
-  - Nordkorea
-  - Corée du Nord
-  - Corea del Norte
-  - 朝鮮民主主義人民共和国
-  - Noord-Korea
-  translations:
-    en: Korea (North)
-    it: Corea del Nord
-    de: Nordkorea
-    fr: Corée du Nord
-    es: Corea del Norte
-    ja: 朝鮮民主主義人民共和国
-    nl: Noord-Korea
-    ru: Северная Корея
-    ar: كوريا الشمالية
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 8
-  - 9
-  national_prefix: '0'
-  number: '408'
-  region: Asia
-  subregion: Eastern Asia
-  un_locode: KP
-  languages:
-  - ko
-  nationality: North Korean
   postal_code: false
 KR:
   continent: Asia
@@ -5842,7 +5727,7 @@ MF:
   country_code: '590'
   currency: EUR
   international_prefix: ''
-  ioc: 
+  ioc:
   latitude: 18 05 N
   longitude: 63 57 W
   name: Saint Martin
@@ -5865,7 +5750,7 @@ MF:
   number: '663'
   region: Americas
   subregion: Caribbean
-  un_locode: 
+  un_locode:
   languages:
   - en
   - fr
@@ -5877,7 +5762,7 @@ MG:
   alpha2: MG
   alpha3: MDG
   country_code: '261'
-  currency: 
+  currency:
   international_prefix: '00'
   ioc: MAD
   latitude: 20 00 S
@@ -6035,43 +5920,6 @@ ML:
   - fr
   nationality: Malian
   postal_code: false
-MM:
-  continent: Asia
-  alpha2: MM
-  alpha3: MMR
-  country_code: '95'
-  currency: MMK
-  international_prefix: '00'
-  ioc: MYA
-  latitude: 22 00 N
-  longitude: 98 00 E
-  name: Myanmar
-  names:
-  - Myanmar
-  - ミャンマー
-  translations:
-    en: Myanmar
-    it: Birmania
-    de: Myanmar
-    fr: Myanmar
-    es: Myanmar
-    ja: ミャンマー
-    nl: Myanmar
-    ru: Мьянма
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 7
-  - 8
-  national_prefix: None
-  number: '104'
-  region: Asia
-  subregion: South-Eastern Asia
-  un_locode: MM
-  languages:
-  - my
-  nationality: Myanmarian
-  postal_code: true
 MN:
   continent: Asia
   alpha2: MN
@@ -6119,9 +5967,9 @@ MO:
   alpha2: MO
   alpha3: MAC
   country_code: '853'
-  currency: 
+  currency:
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 22 10 N
   longitude: 113 33 E
   name: Macao
@@ -6158,7 +6006,7 @@ MP:
   country_code: '1'
   currency: USD
   international_prefix: '011'
-  ioc: 
+  ioc:
   latitude: 15 12 N
   longitude: 145 45 E
   name: Northern Mariana Islands
@@ -6199,7 +6047,7 @@ MQ:
   country_code: '596'
   currency: EUR
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: ''
   longitude: ''
   name: Martinique
@@ -6276,7 +6124,7 @@ MS:
   country_code: '1'
   currency: XCD
   international_prefix: '011'
-  ioc: 
+  ioc:
   latitude: 16 45 N
   longitude: 62 12 W
   name: Montserrat
@@ -6632,7 +6480,7 @@ NC:
   country_code: '687'
   currency: XPF
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 21 30 S
   longitude: 165 30 E
   name: New Caledonia
@@ -6709,7 +6557,7 @@ NF:
   country_code: '672'
   currency: AUD
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 29 02 S
   longitude: 167 57 E
   name: Norfolk Island
@@ -6993,9 +6841,9 @@ NU:
   alpha2: NU
   alpha3: NIU
   country_code: '683'
-  currency: 
+  currency:
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 19 02 S
   longitude: 169 52 W
   name: Niue
@@ -7204,7 +7052,7 @@ PF:
   country_code: '689'
   currency: XPF
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 15 00 S
   longitude: 140 00 W
   name: French Polynesia
@@ -7421,7 +7269,7 @@ PM:
   country_code: '508'
   currency: EUR
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 46 50 N
   longitude: 56 20 W
   name: Saint Pierre And Miquelon
@@ -7461,7 +7309,7 @@ PN:
   country_code: ''
   currency: NZD
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 25 04 S
   longitude: 130 06 W
   name: Pitcairn
@@ -7533,7 +7381,7 @@ PS:
   alpha2: PS
   alpha3: PSE
   country_code: '970'
-  currency: 
+  currency:
   international_prefix: '00'
   ioc: PLE
   latitude: ''
@@ -7564,7 +7412,7 @@ PS:
   number: '275'
   region: Asia
   subregion: Western Asia
-  un_locode: 
+  un_locode:
   languages:
   - ar
   - he
@@ -7742,7 +7590,7 @@ RE:
   country_code: '262'
   currency: EUR
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: ''
   longitude: ''
   name: Réunion
@@ -8076,47 +7924,6 @@ SC:
   - en
   nationality: Seychellois
   postal_code: false
-SD:
-  continent: Africa
-  alpha2: SD
-  alpha3: SDN
-  country_code: '249'
-  currency: SDG
-  international_prefix: '00'
-  ioc: SUD
-  latitude: 15 00 N
-  longitude: 30 00 E
-  name: Sudan
-  names:
-  - Sudan
-  - Soudan
-  - Sudán
-  - スーダン
-  - Soedan
-  translations:
-    en: Sudan
-    it: Sudan
-    de: Sudan
-    fr: Soudan
-    es: Sudán
-    ja: スーダン
-    nl: Soedan
-    ru: Судан
-    ar: السودان
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 9
-  national_prefix: '0'
-  number: '729'
-  region: Africa
-  subregion: Northern Africa
-  un_locode: SD
-  languages:
-  - ar
-  - en
-  nationality: Sudanese
-  postal_code: true
 SE:
   continent: Europe
   address_format: ! '{{recipient}}
@@ -8222,7 +8029,7 @@ SH:
   country_code: '290'
   currency: SHP
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 15 57 S
   longitude: 5 42 W
   name: Saint Helena
@@ -8311,7 +8118,7 @@ SJ:
   country_code: '47'
   currency: NOK
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 78 00 N
   longitude: 20 00 E
   name: Svalbard And Jan Mayen
@@ -8732,55 +8539,6 @@ SX:
   - en
   nationality: Dutch
   postal_code: true
-SY:
-  continent: Asia
-  address_format: ! '{{recipient}}
-
-    {{street}}
-
-    {{postalcode}} {{city}}
-
-    {{country}}'
-  alpha2: SY
-  alpha3: SYR
-  country_code: '963'
-  currency: SYP
-  international_prefix: '00'
-  ioc: SYR
-  latitude: 35 00 N
-  longitude: 38 00 E
-  name: Syrian Arab Republic
-  names:
-  - Syria
-  - Syrien
-  - Syrie
-  - Siria
-  - シリア・アラブ共和国
-  - Syrië
-  translations:
-    en: Syria
-    it: Siria
-    de: Syrien
-    fr: Syrie
-    es: Siria
-    ja: シリア・アラブ共和国
-    nl: Syrië
-    ru: Сирия
-    ar: سوريا
-  national_destination_code_lengths:
-  - 2
-  national_number_lengths:
-  - 7
-  - 8
-  national_prefix: '0'
-  number: '760'
-  region: Asia
-  subregion: Western Asia
-  un_locode: SY
-  languages:
-  - ar
-  nationality: Syrian
-  postal_code: false
 SZ:
   continent: Africa
   alpha2: SZ
@@ -8827,7 +8585,7 @@ TC:
   country_code: '1'
   currency: USD
   international_prefix: '011'
-  ioc: 
+  ioc:
   latitude: 21 45 N
   longitude: 71 35 W
   name: Turks and Caicos Islands
@@ -8908,7 +8666,7 @@ TF:
   country_code: ''
   currency: EUR
   international_prefix: ''
-  ioc: 
+  ioc:
   latitude: ''
   longitude: ''
   name: French Southern Territories
@@ -8934,7 +8692,7 @@ TF:
   number: '260'
   region: ''
   subregion: ''
-  un_locode: 
+  un_locode:
   languages:
   - fr
   nationality: French
@@ -9065,7 +8823,7 @@ TK:
   country_code: '690'
   currency: NZD
   international_prefix: '00'
-  ioc: 
+  ioc:
   latitude: 9 00 S
   longitude: 172 00 W
   name: Tokelau
@@ -9131,7 +8889,7 @@ TL:
   number: '626'
   region: Asia
   subregion: South-Eastern Asia
-  un_locode: 
+  un_locode:
   languages:
   - pt
   nationality: East Timorese
@@ -9141,7 +8899,7 @@ TM:
   alpha2: TM
   alpha3: TKM
   country_code: '993'
-  currency: 
+  currency:
   international_prefix: '810'
   ioc: TKM
   latitude: 40 00 N
@@ -9565,7 +9323,7 @@ UM:
   country_code: ''
   currency: USD
   international_prefix: ''
-  ioc: 
+  ioc:
   latitude: ''
   longitude: ''
   name: United States Minor Outlying Islands
