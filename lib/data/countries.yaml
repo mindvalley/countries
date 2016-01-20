@@ -42,13 +42,11 @@ AD:
   postal_code: true
 AE:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: AE
   alpha3: ARE
   country_code: '971'
@@ -407,15 +405,12 @@ AQ:
   postal_code: true
 AR:
   continent: South America
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
     {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: AR
   alpha3: ARG
   country_code: '54'
@@ -499,13 +494,11 @@ AS:
   postal_code: true
 AT:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: AT
   alpha3: AUT
   country_code: '43'
@@ -555,13 +548,11 @@ AT:
   postal_code: true
 AU:
   continent: Australia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: AU
   alpha3: AUS
   country_code: '61'
@@ -715,13 +706,11 @@ AZ:
   postal_code: true
 BA:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: BA
   alpha3: BIH
   country_code: '387'
@@ -838,13 +827,11 @@ BD:
   postal_code: true
 BE:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: BE
   alpha3: BEL
   country_code: '32'
@@ -926,13 +913,11 @@ BF:
   postal_code: false
 BG:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: BG
   alpha3: BGR
   country_code: '359'
@@ -975,13 +960,11 @@ BG:
   postal_code: true
 BH:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: BH
   alpha3: BHR
   country_code: '973'
@@ -1278,13 +1261,11 @@ BQ:
   postal_code: true
 BR:
   continent: South America
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: BR
   alpha3: BRA
   country_code: '55'
@@ -1553,13 +1534,11 @@ BZ:
   postal_code: false
 CA:
   continent: North America
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: CA
   alpha3: CAN
   country_code: '1'
@@ -1761,13 +1740,11 @@ CG:
   postal_code: false
 CH:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: CH
   alpha3: CHE
   country_code: '41'
@@ -1970,13 +1947,11 @@ CM:
   postal_code: false
 CN:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: CN
   alpha3: CHN
   country_code: '86'
@@ -2248,13 +2223,11 @@ CY:
   postal_code: true
 CZ:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: CZ
   alpha3: CZE
   country_code: '420'
@@ -2297,13 +2270,11 @@ CZ:
   postal_code: true
 DE:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: DE
   alpha3: DEU
   country_code: '49'
@@ -2392,15 +2363,12 @@ DJ:
   postal_code: false
 DK:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
     {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: DK
   alpha3: DNK
   country_code: '45'
@@ -2640,13 +2608,11 @@ EE:
   postal_code: true
 EG:
   continent: Africa
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: EG
   alpha3: EGY
   country_code: '20'
@@ -2766,13 +2732,11 @@ ER:
   postal_code: false
 ES:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: ES
   alpha3: ESP
   country_code: '34'
@@ -2856,13 +2820,11 @@ ET:
   postal_code: true
 FI:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: FI
   alpha3: FIN
   country_code: '358'
@@ -3066,13 +3028,11 @@ FO:
   postal_code: true
 FR:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: FR
   alpha3: FRA
   country_code: '33'
@@ -3156,17 +3116,13 @@ GA:
   postal_code: true
 GB:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}}
-
     {{region}}
-
     {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: GB
   alpha3: GBR
   country_code: '44'
@@ -3437,13 +3393,11 @@ GI:
   postal_code: true
 GL:
   continent: North America
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: GL
   alpha3: GRL
   country_code: '299'
@@ -3636,13 +3590,11 @@ GQ:
   postal_code: false
 GR:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: GR
   alpha3: GRC
   country_code: '30'
@@ -3869,13 +3821,11 @@ GY:
   postal_code: false
 HK:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: HK
   alpha3: HKG
   country_code: '852'
@@ -3987,13 +3937,11 @@ HN:
   postal_code: true
 HR:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: HR
   alpha3: HRV
   country_code: '385'
@@ -4073,15 +4021,12 @@ HT:
   postal_code: true
 HU:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{city}}
-
     {{street}}
-
     {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: HU
   alpha3: HUN
   country_code: '36'
@@ -4124,15 +4069,12 @@ HU:
   postal_code: true
 ID:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}}
-
     {{region}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: ID
   alpha3: IDN
   country_code: '62'
@@ -4175,13 +4117,11 @@ ID:
   postal_code: true
 IE:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: IE
   alpha3: IRL
   country_code: '353'
@@ -4225,13 +4165,11 @@ IE:
   postal_code: false
 IL:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: IL
   alpha3: ISR
   country_code: '972'
@@ -4311,15 +4249,12 @@ IM:
   postal_code: true
 IN:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{region}}
-
     {{city}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: IN
   alpha3: IND
   country_code: '91'
@@ -4436,13 +4371,11 @@ IQ:
   postal_code: true
 IS:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: IS
   alpha3: ISL
   country_code: '354'
@@ -4485,13 +4418,11 @@ IS:
   postal_code: true
 IT:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: IT
   alpha3: ITA
   country_code: '39'
@@ -4607,13 +4538,11 @@ JM:
   postal_code: false
 JO:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: JO
   alpha3: JOR
   country_code: '962'
@@ -4656,13 +4585,11 @@ JO:
   postal_code: true
 JP:
   continent: Asia
-  address_format: ! '〒{{postalcode}}
-
+  address_format: |-
+    〒{{postalcode}}
     {{region}}{{city}}{{street}}
-
     {{recipient}}
-
-    {{country}}'
+    {{country}}
   alpha2: JP
   alpha3: JPN
   country_code: '81'
@@ -4938,15 +4865,12 @@ KN:
   postal_code: false
 KR:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}}
-
     {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: KR
   alpha3: KOR
   country_code: '82'
@@ -4989,15 +4913,12 @@ KR:
   postal_code: true
 KW:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
     {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: KW
   alpha3: KWT
   country_code: '965'
@@ -5155,13 +5076,11 @@ LA:
   postal_code: true
 LB:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: LB
   alpha3: LBN
   country_code: '961'
@@ -5432,13 +5351,11 @@ LT:
   postal_code: true
 LU:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: LU
   alpha3: LUX
   country_code: '352'
@@ -5839,13 +5756,11 @@ MH:
   postal_code: true
 MK:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: MK
   alpha3: MKD
   country_code: '389'
@@ -6308,13 +6223,11 @@ MW:
   postal_code: false
 MX:
   continent: North America
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: MX
   alpha3: MEX
   country_code: '52'
@@ -6667,13 +6580,11 @@ NI:
   postal_code: true
 NL:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: NL
   alpha3: NLD
   country_code: '31'
@@ -6713,15 +6624,13 @@ NL:
   nationality: Dutch
   eu_member: true
   postal_code: true
-'NO':
+NO:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: 'NO'
   alpha3: NOR
   country_code: '47'
@@ -6874,15 +6783,12 @@ NU:
   postal_code: false
 NZ:
   continent: Australia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{region}}
-
     {{city}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: NZ
   alpha3: NZL
   country_code: '64'
@@ -6924,15 +6830,12 @@ NZ:
   postal_code: true
 OM:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
     {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: OM
   alpha3: OMN
   country_code: '968'
@@ -7127,13 +7030,11 @@ PG:
   postal_code: true
 PH:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}} {{region}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: PH
   alpha3: PHL
   country_code: '63'
@@ -7215,15 +7116,12 @@ PK:
   postal_code: true
 PL:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
     {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: PL
   alpha3: POL
   country_code: '48'
@@ -7421,13 +7319,11 @@ PS:
   postal_code: true
 PT:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}} {{region}}
-
-    {{country}}'
+    {{country}}
   alpha2: PT
   alpha3: PRT
   country_code: '351'
@@ -7540,13 +7436,11 @@ PY:
   postal_code: true
 QA:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: QA
   alpha3: QAT
   country_code: '974'
@@ -7622,13 +7516,11 @@ RE:
   postal_code: true
 RO:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: RO
   alpha3: ROU
   country_code: '40'
@@ -7709,13 +7601,11 @@ RS:
   postal_code: true
 RU:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{postalcode}} {{city}}
-
     {{street}}
-
-    {{country}}'
+    {{country}}
   alpha2: RU
   alpha3: RUS
   country_code: '7'
@@ -7799,13 +7689,11 @@ RW:
   postal_code: false
 SA:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: SA
   alpha3: SAU
   country_code: '966'
@@ -7926,13 +7814,11 @@ SC:
   postal_code: false
 SE:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: SE
   alpha3: SWE
   country_code: '46'
@@ -7975,13 +7861,11 @@ SE:
   postal_code: true
 SG:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: SG
   alpha3: SGP
   country_code: '65'
@@ -8064,13 +7948,11 @@ SH:
   postal_code: true
 SI:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: SI
   alpha3: SVN
   country_code: '386'
@@ -8153,13 +8035,11 @@ SJ:
   postal_code: true
 SK:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: SK
   alpha3: SVK
   country_code: '421'
@@ -9018,13 +8898,11 @@ TO:
   postal_code: false
 TR:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: TR
   alpha3: TUR
   country_code: '90'
@@ -9143,13 +9021,11 @@ TV:
   postal_code: false
 TW:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: TW
   alpha3: TWN
   country_code: '886'
@@ -9229,15 +9105,12 @@ TZ:
   postal_code: false
 UA:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}}
-
     {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: UA
   alpha3: UKR
   country_code: '380'
@@ -9356,13 +9229,11 @@ UM:
   postal_code: true
 US:
   continent: North America
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}} {{region}} {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: US
   alpha3: USA
   country_code: '1'
@@ -9839,13 +9710,11 @@ WS:
   postal_code: true
 YE:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: YE
   alpha3: YEM
   country_code: '967'
@@ -9922,17 +9791,13 @@ YT:
   postal_code: true
 ZA:
   continent: Africa
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{city}}
-
     {{region}}
-
     {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: ZA
   alpha3: ZAF
   country_code: '27'
