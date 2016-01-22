@@ -5835,6 +5835,44 @@ ML:
   - fr
   nationality: Malian
   postal_code: false
+MM:
+  continent: Asia
+  alpha2: MM
+  alpha3: MMR
+  country_code: "95"
+  currency: MNK
+  international_prefix: "00"
+  ioc: MYA
+  latitude: "22 00 N"
+  longitude: "98 00 E"
+  name: Myanmar
+  names:
+    - Myanmar
+    - ミャンマー
+    - Мьянма
+  translations:
+    en: Myanmar
+    it: Myanmar
+    de: Myanmar
+    fr: Myanmar
+    es: Myanmar
+    ja: ミャンマー
+    nl: Myanmar
+    ru: Мьянма
+  national_destination_code_lengths:
+    - 2
+  national_number_lengths:
+    - 7
+    - 8
+  national_prefix: None
+  number: "104"
+  region: Asia
+  subregion: "South-Eastern Asia"
+  un_locode: MM
+  languages:
+    - my
+  nationality: Burmese
+  postal_code: true
 MN:
   continent: Asia
   alpha2: MN
@@ -7812,6 +7850,47 @@ SC:
   - en
   nationality: Seychellois
   postal_code: false
+SD:
+  continent: Africa
+  alpha2: SD
+  alpha3: SDN
+  country_code: "249"
+  currency: SDG
+  international_prefix: "00"
+  ioc: SUD
+  latitude: "15 00 N"
+  longitude: "30 00 E"
+  name: Sudan
+  names:
+    - Sudan
+    - Soudan
+    - Sudán
+    - スーダン
+    - Soedan
+    - Судан
+  translations:
+    en: Sudan
+    it: Sudan
+    de: Sudan
+    fr: Soudan
+    es: Sudán
+    ja: スーダン
+    nl: Soedan
+    ru: Судан
+  national_destination_code_lengths:
+    - 2
+  national_number_lengths:
+    - 9
+  national_prefix: "0"
+  number: "736"
+  region: Africa
+  subregion: "Northern Africa"
+  un_locode: SD
+  languages:
+    - ar
+    - en
+  nationality: Sudanese
+  postal_code: true
 SE:
   continent: Europe
   address_format: |-
@@ -8419,6 +8498,52 @@ SX:
   - en
   nationality: Dutch
   postal_code: true
+SY:
+  continent: Asia
+  address_format: |-
+    {{recipient}}
+    {{street}}
+    {{postalcode}} {{city}}
+    {{country}}
+  alpha2: SY
+  alpha3: SYR
+  country_code: "963"
+  currency: SYP
+  international_prefix: "00"
+  ioc: SYR
+  latitude: "35 00 N"
+  longitude: "38 00 E"
+  name: "Syrian Arab Republic"
+  names:
+    - Syria
+    - Syrien
+    - Syrie
+    - シリア
+    - Syrië
+    - Сирия
+  translations:
+    en: Syria
+    it: Siria
+    de: Syrien
+    fr: Syrie
+    es: Siria
+    ja: シリア
+    nl: Syrië
+    ru: Сирия
+  national_destination_code_lengths:
+    - 2
+  national_number_lengths:
+    - 7
+    - 8
+  national_prefix: "0"
+  number: "760"
+  region: Asia
+  subregion: "Western Asia"
+  un_locode: SY
+  languages:
+    - ar
+  nationality: Syrian
+  postal_code: false
 SZ:
   continent: Africa
   alpha2: SZ
@@ -9707,6 +9832,47 @@ WS:
   - sm
   - en
   nationality: Samoan
+  postal_code: true
+XK:
+  continent: Europe
+  alpha2: XK
+  alpha3: XKX
+  country_code: '383'
+  currency: EUR
+  international_prefix: '00'
+  ioc: KOS
+  latitude: 42 35 N
+  longitude: 21 00 E
+  name: Kosovo
+  names:
+  - Kosovo
+  - Republic of Kosovo
+  - コソボ
+  - Косово
+  translations:
+    en: Kosovo
+    it: Kosovo
+    de: Kosovo
+    fr: Kosovo
+    es: Kosovo
+    ja: コソボ
+    nl: Kosovo
+    ru: Косово
+  national_destination_code_lengths:
+  - 2
+  - 3
+  national_number_lengths:
+  - 5
+  - 6
+  national_prefix: '0'
+  number: '383'
+  region: Balkans
+  subregion: Western Balkans
+  un_locode: None
+  languages:
+  - sq
+  - sr
+  nationality: Kosovan
   postal_code: true
 YE:
   continent: Asia
