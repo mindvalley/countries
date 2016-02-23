@@ -6620,7 +6620,7 @@ NL:
   nationality: Dutch
   eu_member: true
   postal_code: true
-NO:
+"NO":
   continent: Europe
   address_format: |-
     {{recipient}}
